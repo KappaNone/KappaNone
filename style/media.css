@@ -1,0 +1,31 @@
+@media (max-width: 1020px) {
+    .container {
+        overflow-y: auto;
+        overflow-x: hidden;
+        flex-direction: column;
+    }
+    main {
+        overflow-y: unset;
+        height: 100%;
+    }
+    body {
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    .right-side {
+        display: none;
+    }
+    .copyright {
+        float: none;
+        top: 50px;
+        left: 0;
+        position: relative;
+        text-align: center;
+        transform: none;
+    }
+}
+
+
+
+
+
