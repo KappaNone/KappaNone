@@ -173,7 +173,6 @@ input {
 textarea[id="message"] {
     resize: none;
     height: 25px;
-    width: 272px;
     font-family: 'Graduate';
     display: block;
     font-size: 20px;
