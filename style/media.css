@@ -7,6 +7,7 @@
     main {
         overflow-y: unset;
         height: 100%;
+        min-height: 800px;
     }
     body {
         overflow-y: auto;
@@ -22,7 +23,7 @@
         position: relative;
         text-align: center;
         transform: none;
-    }  
+    }
 }
 
 
