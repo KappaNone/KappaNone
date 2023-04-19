@@ -42,7 +42,7 @@ a {
 .left-side {
     backdrop-filter: blur(1px);
     min-width: 340px;
-    min-height: 720px;
+    min-height: 760px;
     background-color: rgba(0, 0, 0, 0.5);
     
     font-family: 'Graduate', cursive;
@@ -156,6 +156,52 @@ main {
     line-height: 30px;
 
     color: #000000;
+}
+
+input {
+    font-family: 'Graduate';
+    display: block;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    border-width: 1px;
+    border-color: #000000;
+    outline: none;
+    margin-bottom: 2px;
+}
+
+textarea[id="message"] {
+    resize: none;
+    height: 25px;
+    width: 272px;
+    font-family: 'Graduate';
+    display: block;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    border-width: 1px;
+    border-color: #000000;
+    outline: none;
+    margin-bottom: 2px;
+    transition: all .2s ease-out;
+}
+textarea[id="message"]:focus {
+    height: 100px;
+}
+
+
+.submit-button {
+    font-family: 'Graduate';
+    padding: 15px;
+    background-color: #FFFFFF;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: all .2s linear;
+}
+
+.submit-button:hover {
+    border-radius: 15px;
 }
 
 /* Free Space */
