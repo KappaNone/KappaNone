@@ -1,8 +1,11 @@
-Моя страница, мой аккаунт это мой дом.
-Поэтому будь добр, заходи в него с благими намерениями, 
-либо иди на хуй.
-_______________________________________________________________________
+# 👋Hey!
 
-My page, my account is my home. 
-Therefore, be kind, go into it with good intentions, 
-or go to hell.
+I am a beginner Full stack developer and I love learning new things!
+You can visit my portfolio website and send me a message and I will definitely see it!  🥳
+
+## 🛠 Skills
+* Javascript
+* HTML / CSS
+* Node
+* React
+* GML
