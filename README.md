@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  ![image](https://user-images.githubusercontent.com/121200875/236353320-957b2008-839d-44b0-9d0d-e9b08436a9ad.png)
+  <img width="460" height="300" src="https://picsum.photos/460/300">
 
   <br>
   <br>
