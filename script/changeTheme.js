@@ -1,4 +1,4 @@
-btn = document.querySelector('#love').addEventListener('click', changeTheme)
+document.querySelector('#love').addEventListener('click', changeTheme)
 
 function changeTheme() {
 	const image = document.querySelector('.container');
