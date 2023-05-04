@@ -8,7 +8,6 @@
   <br>
   <br>
   
-  <samp>
       # 👋Hey!
 
       I am a beginner Full stack developer and I love learning new things!
@@ -20,7 +19,6 @@
       * Node
       * React
       * GML
-  </samp>
   
   <br>
   <br>
