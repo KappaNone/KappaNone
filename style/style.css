@@ -159,7 +159,9 @@ main {
 }
 
 input {
+    box-sizing: border-box;
     font-family: 'Graduate';
+    width: 100%;
     display: block;
     font-size: 20px;
     border-radius: 10px;
@@ -167,12 +169,14 @@ input {
     border-width: 1px;
     border-color: #000000;
     outline: none;
-    margin-bottom: 2px;
+    margin-bottom: 5px;
 }
 
 textarea[id="message"] {
+    box-sizing: border-box;
     resize: none;
-    height: 25px;
+    height: 65px;
+    width: 100%;
     font-family: 'Graduate';
     display: block;
     font-size: 20px;
@@ -185,7 +189,7 @@ textarea[id="message"] {
     transition: all .2s ease-out;
 }
 textarea[id="message"]:focus {
-    height: 100px;
+    height: 150px;
 }
 
 
