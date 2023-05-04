@@ -1,3 +1,5 @@
+btn = document.querySelector('#love').addEventListener('click', changeTheme)
+
 function changeTheme() {
 	const image = document.querySelector('.container');
 	if (image.style.backgroundImage == 'url("/BackGround.jpg")') {
