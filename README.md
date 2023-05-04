@@ -6,7 +6,8 @@
      You can visit my portfolio website and send me a message and I will definitely see it!  🥳
     <br>
     <br>
-    ## 🛠 Skills
+    <i>🛠 Skills</i>
+    <br>
   * Javascript
   * HTML / CSS
   * Node
