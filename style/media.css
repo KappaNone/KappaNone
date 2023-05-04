@@ -17,6 +17,12 @@
         overflow-y: auto;
         overflow-x: hidden;
     }
+    input {
+        width: 100%;
+    }
+    textarea {
+        width: 100%;
+    }
     .right-side {
         display: none;
     }

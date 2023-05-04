@@ -34,7 +34,7 @@ a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(/Images/BackGround.jpg);
+    background-image: url(/BackGround.jpg);
 }
 
 /* Menu */
@@ -161,7 +161,7 @@ main {
 input {
     box-sizing: border-box;
     font-family: 'Graduate';
-    width: 100%;
+
     display: block;
     font-size: 20px;
     border-radius: 10px;
@@ -176,7 +176,6 @@ textarea[id="message"] {
     box-sizing: border-box;
     resize: none;
     height: 65px;
-    width: 100%;
     font-family: 'Graduate';
     display: block;
     font-size: 20px;
