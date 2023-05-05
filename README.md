@@ -9,6 +9,7 @@
     <br>
     <br>
     <i>🛠 Skills</i>
+    <br> 
     <br>
       JavaScript, HTML, CSS, Node, React, GML
   </samp>
