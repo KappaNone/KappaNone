@@ -8,8 +8,11 @@ const message = document.getElementById('message')
 
 document.getElementById('mail-form').addEventListener('submit', async (e) => {
 	e.preventDefault();
-	try {
+	
+	const loading = document.querySelector('#loading')
+	loading.style.display = 'block'
 
+	try {
 		await axios.post(URL_API, {
 			name: name.value,
 			email: email.value,
@@ -22,6 +25,8 @@ document.getElementById('mail-form').addEventListener('submit', async (e) => {
 	} catch (error) {
 
 		console.log(error)
+	} finally {
+		loading.style.display = 'none'
 	}
 
 })
