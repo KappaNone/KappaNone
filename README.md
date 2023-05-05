@@ -8,6 +8,6 @@
     <br>
     <i>🛠 Skills</i>
     <br>
-      Javascript, HTML / CSS, Node, React, GML
+      JavaScript, HTML, CSS, Node, React, GML
   </samp>
 </p>
