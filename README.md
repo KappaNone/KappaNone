@@ -1,4 +1,6 @@
 <p align="center">
+  ![image](https://user-images.githubusercontent.com/121200875/236354386-599589e4-e9e3-494d-b4d9-485915e0fa68.png)
+
   <samp>
     <i>👋Hey!</i>
     <br> 
