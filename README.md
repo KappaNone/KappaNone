@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
     <i>👋Hey!</i>
+    <br>
     <br> 
      I am a beginner Full stack developer and I love learning new things!
     <br> 
