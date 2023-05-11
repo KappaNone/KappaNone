@@ -11,5 +11,5 @@
   <i>🛠 Skills</i>
   <br> 
   <br>
-    JavaScript, HTML, CSS, Node, React, GML
+    JavaScript, HTML, CSS, Node, React, Python
 </p>
