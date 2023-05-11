@@ -11,5 +11,7 @@
   <i>🛠 Skills</i>
   <br> 
   <br>
-    JavaScript, HTML, CSS, Node, React, Python
+  <samp>
+  JavaScript, HTML, CSS, Node, React, Python
+  </samp>
 </p>
