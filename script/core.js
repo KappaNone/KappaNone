@@ -25,6 +25,7 @@ document.getElementById('mail-form').addEventListener('submit', async (e) => {
 	} catch (error) {
 
 		console.log(error)
+		console.error("Саня хуй соси")
 	} finally {
 		loading.style.display = 'none'
 	}
