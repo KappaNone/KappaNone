@@ -23,7 +23,7 @@ document.getElementById('mail-form').addEventListener('submit', async (e) => {
 		email.value = "";
 		message.value = "";
 	} catch (error) {
-		console.error("Саня хуй соси")
+		console.error(error)
 	} finally {
 		loading.style.display = 'none'
 	}
