@@ -10,6 +10,6 @@
   <br> 
   <br>
   <samp>
-  JavaScript, HTML, CSS, Node, React, Python
+  JavaScript, HTML, CSS, Node, Python
   </samp>
 </p>
