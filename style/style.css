@@ -187,6 +187,7 @@ textarea[id="message"] {
     box-sizing: border-box;
     resize: none;
     height: 65px;
+    width: 314px;
     font-family: 'Graduate';
     display: block;
     font-size: 20px;
@@ -205,7 +206,7 @@ textarea[id="message"]:focus {
 
 
 .submit-button {
-
+    
     font-family: 'Graduate';
     padding: 15px;
     background-color: #FFFFFF;

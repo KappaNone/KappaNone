@@ -25,7 +25,7 @@
 		width: 100%;
 	}
 
-	textarea {
+	textarea[id="message"] {
 		width: 100%;
 	}
 
